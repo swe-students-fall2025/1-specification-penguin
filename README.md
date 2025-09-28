@@ -12,7 +12,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Eats@NYU is a community-driven food discovery app that helps NYU students quickly decide where to eat by combining personal tracking with daily campus-wide lunch trends and rankings.
 
 ## User Requirements
 
@@ -31,6 +31,10 @@ See instructions. Delete this line and place a list of your User Stories here.
 "As an NYU student, I want to create an account with my NYU email so I can join the campus-only community."
 
 ![User story 2](uml_diagram_2.png)
+
+## Wireframe
+
+![Wireframe](wireframe.png)
 
 ## Clickable Prototype
 
