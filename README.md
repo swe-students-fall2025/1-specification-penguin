@@ -24,4 +24,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/tJ4l0GGmRdSyLxzWis5bhX/Penguin?node-id=6-3&t=czR8NcqssgHpUiec-1&starting-point-node-id=6%3A3
