@@ -20,7 +20,17 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### User Story 1
+
+"As an NYU student, I want to log where I ate for lunch so I can track my spots over time."
+
+![User story 1](uml_diagram_1.png)
+
+### User Story 2
+
+"As an NYU student, I want to create an account with my NYU email so I can join the campus-only community."
+
+![User story 2](uml_diagram_2.png)
 
 ## Clickable Prototype
 
