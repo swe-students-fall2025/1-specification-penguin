@@ -4,11 +4,35 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Jacob Ng https://github.com/jng20
+
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+The stakeholders interviewed were Jacob's friends Gerald, Jennifer, and Rhihab all at once. They are all seniors at NYU. 
+
+Jennifer is a biology major and lives in an NYU dorm.
+Rhihab is also a biology major but lives off campus in Brooklyn.
+Gerald is a psycology major and lives off campus in New Jersey.
+
+Some of their goals were:
+1. Gym consistently as well as track their progress
+2. Manage their daily schedules better
+3. Get a job/search for a better job
+4. Be more motivated to go to class
+
+Some of their frustrations were:
+1. Innacurate MTA travel times, especially for the PATH train
+2. Certain streets being really busy, making it hard to walk or get to places on time
+3. Not knowing all the best prices for groceries since there are too many supermarkets
+4. Struggling to decide where to eat for lunch by campus
+
+Some of their specific frustrations when it came to choosing a lunch spot by NYU:
+1. Menus on google not being up to date. In addition, daily specials and deals often aren't mentioned
+2. Places being too far
+3. Places being too expensive
+4. Lack of variety in choices
+
 
 ## Product Vision Statement
 
