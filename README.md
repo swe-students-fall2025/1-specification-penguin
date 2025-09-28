@@ -4,7 +4,17 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Alex Xie, Phoebe Huang, Xiaomin Liu, Jacob Ng
+
+## Ideation
+Our project is a food discovery app designed exclusively for the NYU community. The goal is to make it easier for students to decide where to eat around campus by combining personal tracking with community insights.
+On the individual side, each student can input where they ate for lunch, give a corresponding rating, and see their personal list automatically sorted by their preferences. This helps students keep track of favorites, compare experiences, and explore new options over time.
+
+On the community side, the app prompts students once a day to share where they ate. These responses feed into a live tracker that generates daily rankings of the most popular lunch spots among NYU students. Beyond the daily trackers, the app also maintains an overall ranking of all NYU food spots that students have added and rated.
+
+Unlike broader food apps like Yelp, our focus is specifically on NYU lunch culture, highlighting dining halls and affordable food spots near campus rather than high-end restaurants. The result is a tool that blends personal recommendations with community-driven rankings, while also showcasing discounted places available for NYU students, making it easier (and more fun) for students to decide what’s for lunch. 
+
+Gone are the days of spending 15 minutes with friends trying to decide what’s for lunch.
 
 ## Stakeholders
 
