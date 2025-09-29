@@ -3,10 +3,10 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
-Alex Xie 
-Phoebe Huang 
-Xiaomin Liu
-Jacob Ng https://github.com/jng20
+Alex Xie - https://github.com/axie22  
+Phoebe Huang - https://github.com/phoebelh  
+Xiaomin Liu - https://github.com/xl4624  
+Jacob Ng - https://github.com/jng20  
 
 ## Ideation
 Our project is a food discovery app designed exclusively for the NYU community. The goal is to make it easier for students to decide where to eat around campus by combining personal tracking with community insights.
